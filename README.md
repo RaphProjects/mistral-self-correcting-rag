@@ -14,12 +14,16 @@ A RAG chatbot that self-evaluates and auto-corrects its answers, using Mistral A
 ## Architecture
 
 PDF → Chunking → Embeddings (mistral-embed) → ChromaDB
+
 ↓
 Question → Semantic Search → Generation (Mistral)
+
 ↓
 Evaluation (Judge Mistral)
+
 ↓
 Score < 14 ? → Retry with more context
+
 ↓
 Final answer + scores
 
@@ -50,6 +54,7 @@ MISTRAL_API_KEY=your_key_here
 ```
 streamlit run app.py
 ```
+
 
 
 
