@@ -41,14 +41,15 @@ venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 ```
 
-# 2 Create .env and add you API key :
+# 2 : Create .env and add your API key
 ```bash
 MISTRAL_API_KEY=your_key_here
 ```
 
-# 3 Run :
+# 3 : Run
 ```
 streamlit run app.py
 ```
+
 
 
