@@ -1,0 +1,22 @@
+# 1. Sécurité (CRITIQUE)
+.env
+api_key.txt
+secrets.json
+
+# 2. Environnement virtuel Python (C'est lourd et inutile sur GitHub)
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# 3. Base de données Vectorielle (Générée localement)
+chroma_db/
+
+# 4. Fichiers systèmes et IDE
+.DS_Store
+.vscode/
+.idea/
+
+# 5. Logs et erreurs éventuels
+*.log

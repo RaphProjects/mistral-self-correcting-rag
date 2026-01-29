@@ -1,0 +1,46 @@
+{
+  "Quel est l'objectif principal du protocole XYZ-42 ?": {
+    "1_attempts": {
+      "fidelity": 18,
+      "relevance": 20
+    },
+    "2_attempts": {
+      "fidelity": 18,
+      "relevance": 20
+    },
+    "3_attempts": {
+      "fidelity": 18,
+      "relevance": 20
+    },
+    "4_attempts": {
+      "fidelity": 18,
+      "relevance": 20
+    },
+    "5_attempts": {
+      "fidelity": 18,
+      "relevance": 20
+    }
+  },
+  "O\u00f9 le d\u00e9veloppement du protocole XYZ-42 a-t-il commenc\u00e9 ?": {
+    "1_attempts": {
+      "fidelity": 18,
+      "relevance": 20
+    },
+    "2_attempts": {
+      "fidelity": 18,
+      "relevance": 20
+    },
+    "3_attempts": {
+      "fidelity": 18,
+      "relevance": 20
+    },
+    "4_attempts": {
+      "fidelity": 18,
+      "relevance": 20
+    },
+    "5_attempts": {
+      "fidelity": 18,
+      "relevance": 20
+    }
+  }
+}
